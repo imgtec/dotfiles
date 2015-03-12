@@ -1,0 +1,13 @@
+pu port             /dev/ttyUSB1
+pu minit            
+pu mreset           
+pu mdialpre         
+pu mdialsuf         
+pu mdialpre2        
+pu mdialsuf2        
+pu mdialpre3        
+pu mdialsuf3        
+pu mhangup          
+pu mdialcan         
+pu escape-key       ^A
+pu rtscts           No 
