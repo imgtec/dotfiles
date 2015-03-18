@@ -1,0 +1,8 @@
+Host tom
+	HostName tom.alphascale.org
+	Port 7022
+	User du
+Host brick
+	HostName 10.0.0.166
+	Port 6622
+	User du
