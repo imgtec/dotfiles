@@ -39,3 +39,6 @@
 set laststatus=2
 nmap <TAB> :NERDTreeFind<CR>
 nmap <SPACE> \m
+nmap <C-n> :tn<CR>
+nmap <C-p> :tp<CR>
+
