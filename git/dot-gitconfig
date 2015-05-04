@@ -3,3 +3,13 @@
 	name = Du Huanpeng
 [credential]
 	helper = store
+
+[sendemail]
+	from = Du Huanpeng <u74147@gmail.com>
+	smtpserver = smtp.gmail.com
+	smtpuser = u74147@gmail.com
+	smtpencryption = tls
+	smtppass = 12345678
+	chainreplyto = false
+	smtpserverport = 587
+
