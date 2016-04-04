@@ -1,0 +1,8 @@
+set from         = "d-hp@163.com"
+set realname     = "Du Huanpeng"
+set smtp_url     = "smtp://d-hp@163.com:------@smtp.163.com:25"
+set imap_user    = "d-hp@163.com"
+set imap_pass    = "------"
+set ssl_starttls = "yes"
+set folder       = "imaps://d-hp@imap.163.com"
+set pop_host     = "pop://d-hp:------@pop.163.com"
